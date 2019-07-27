@@ -14,13 +14,13 @@ We are going to use azure blockchain technology to make the entire election proc
 
 <h2>Implementation</h2>
 
-<h4>Pre-election</h4>
+<h3>Pre-election</h3>
 Cryptography underlying blockchain technology helps us ensure that digital content comes from a trusted source.
 
-<h4>During elections</h4>
+<h3>During elections</h3>
 Blockchain's immutable ledger can help store identity data for authenticating voters , and help securely record digital votes for tabulation.
 
-<h4>Post election</h4>
+<h3>Post election</h3>
 Individual voters and election officials can each audit the eletion's outcome on a public blockchain.
 
 <h2>How is it useful?</h2>
@@ -39,11 +39,11 @@ Every student and faculty of IIT Guwahati gets a webmail ID at the time of enrol
   
 <h2>Workflow</h2>
 
-<h2>Team - CodeVipers<h2>
+<h2>Team - CodeVipers</h2>
 <h3>Indian Institute of Technology Guwahati</h3>
- 1. Karan Gupta</br>
- 2. Anjali Soni</br>
- 3. AB Satyaprakash</br>
+1. Karan Gupta</br>
+2. Anjali Soni</br>
+3. AB Satyaprakash</br>
   
   
   
