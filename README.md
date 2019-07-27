@@ -37,8 +37,6 @@ A tamper-proof online voting model would make the whole voting process significa
 <h3>Easily accessible</h3>
 Every student and faculty of IIT Guwahati gets a webmail ID at the time of enrollment which would form the basis of unique identification for each voter. This would enable them to easily vote through our Android app without having to wait in queues or even go anywhere.
   
-<h2>Workflow</h2>
-
 <h2>Team - CodeVipers</h2>
 <h3>Indian Institute of Technology Guwahati</h3>
 1. Karan Gupta</br>
