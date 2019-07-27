@@ -18,7 +18,7 @@ Blockchain's immutable ledger can help store identity data for authenticating vo
 Individual voters and election officials can each audit the eletion's outcome on a public blockchain.
 
 <h2>How is it useful</h2>
-(describe the security involved, and the time limit reduction, ease of access from android phone itself, as well as the idea of using iitg email ID as the identification standard)
+
 <h3>More Security</h3>
 Using Blockchain to save data of users keeps it safe and unaltered because the data is encrypted and has to be validated by a consensus protocol in order to be altered.
 
