@@ -1,10 +1,14 @@
 <h1> Microsoft Codefundo++ 2019 : Secure Electronic Voting System in IIT Guwahati using Blockchain </h1>
 
 <h2>Motivation</h2>
+  Elections, referenda, and polls are very important processes & tools for the smooth operation of a modern democracy.But this process is bound with so many problems ,be it the delays in conducting the elections  as well as declaring the results due to its time consuming process.In our college  , we have encountered the same hassle on the election day , those long queues , some students unable to vote due to some motion impairmant, involvement of so many officials so as to check out the smooth functioning of this hectic process.This problem is prominent almost wherever we need to conduct any elections.
   
-  1. Usual problem with voting in the country, long time process, delays --- then in this paragraph describe those with our college, a whole day process, hassle in CCC, problems for students with motion impairment, etc.. <br>
-  2.Even this problem is very prominent in other colleges.. that are non IITs, because there elections take place over weeks, and manually. <br>
-  3.Every student has an android, so it's quite easy if we are able to make an android app for the same,and then integrate it with the IITG server, to secure voting with block chain.
+  
+  So , here are with our idea , what if the entire process is in online mode. In this modern era , almost everyone has an android phone , so why not make an application so that voters even if being far from the voting place can cast their votes by some basic registration processes in that appliction in their phone , then we'll integrate his/her choice of voting in the with the IITG server & using the azure blockchain technology to secure the entire voting process.
+
+#  1. Usual problem with voting in the country, long time process, delays --- then in this paragraph describe those with our college, a whole day process, hassle in CCC, problems for students with motion impairment, etc.. 
+#  2.Even this problem is very prominent in other colleges.. that are non IITs, because there elections take place over weeks, and #manually.
+ # 3.Every student has an android, so it's quite easy if we are able to make an android app for the same,and then integrate it with the IITG server, to secure voting with block chain.
   
 <h2>Idea</h2>
  
@@ -18,18 +22,7 @@ Blockchain's immutable ledger can help store identity data for authenticating vo
 Individual voters and election officials can each audit the eletion's outcome on a public blockchain.
 
 <h2>How is it useful</h2>
-
-<h3>More Security</h3>
-Using Blockchain to save data of users keeps it safe and unaltered because the data is encrypted and has to be validated by a consensus protocol in order to be altered.
-
-<h3>Transparency</h3>
-It is stored in decentralized manner which allows each user to have a copy of the alterations to the blockchain. This would substantially minimize the threat of the data being corrupted, while at the same time promote transparency into the voting process.
-
-<h3>Faster process</h3>
-A tamper-proof online voting model would make the the whole voting process significantly faster as it would prevent long queues outside the polling booth as is what happens, for instance, in college committee elections.
-
-<h3>Easily accessible</h3>
-Every student and faculty of IIT Guwahati gets a webmail ID at the time of enrollment which would form the basis of unique identification for each voter. This would enable them to easily vote through our Android app without having to wait in queues or even go anywhere.
+(describe the security involved, and the time limit reduction, ease of access from android phone itself, as well as the idea of using iitg email ID as the identification standard)
 
 <h2>Challenges</h2>
   Don't fill it now.. it'd be filled later when we face real challenges.. you may even remove or comment this point..
@@ -44,13 +37,6 @@ need to make one by tonight...
   3. AB Satyaprakash</br>
   
   
-  
-  A few other things to note...
-  1. comment out the descriptions I've given, make a fair draft and then remove the comments. 
-  2. If you guys have some other points to add, feel free to..
-  3. for explaining the problem we can add more examples.
-  4. Keep the idea short 1 paragrph.
-  5.And remeber the total wrods that we're permitted to use should not exceed 500.. and comment out this section too.. All the best!
   
   
   
