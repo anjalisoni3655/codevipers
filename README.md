@@ -1,10 +1,11 @@
 <h1> Microsoft Codefundo++ 2019 : Secure Electronic Voting System in IIT Guwahati using Blockchain </h1>
 
 <h2>Motivation</h2>
-  Elections, referenda, and polls are very important processes & tools for the smooth operation of a modern democracy.But this process is bound with so many problems ,be it the delays in conducting the elections  as well as declaring the results due to its time consuming process.In our college  , we have encountered the same hassle on the election day , those long queues , some students are unable to vote due to some motion impairmant, involvement of so many officials so as to ensure the smooth functioning of this hectic process.This problem is prominent  wherever we need to conduct any elections.
+Elections, referenda, and polls are very important processes & tools for the smooth operation of a modern democracy. But, usually these processes are infested with a lot of problems, be it the delays in conducting the elections or declaring the results due to its time-consuming nature.
+
+Even in our college, IIT Guwahati, we have faced a similar scenario on the election’s day here, with long queues, involvement of so many officials, guards and supporting staffs. A whole day is wasted in the process. Moreover, many students, who are suffering from motion are unable to cast their votes. Same is the case with many other colleges all over the country.
   
-  
-  So , here are we with our idea , what if the entire process is in online mode. In this modern era , almost everyone has an android phone , so why not make an application so that voters even if being far from the voting place can cast their votes by some basic registration processes in that appliction in their phone , then we'll integrate his/her choice of voting  with the IITG server & using the azure blockchain technology to secure the entire voting process.
+So, this motivates the use of a better and easily accessible method of voting. Almost everyone has an android phone these days, and thus we decided to make an android application, for the students to register with their IITG email ID (to authenticate) and then vote throughout the election day, right from their hostels or any convenient place in the campus. This will be integrated with the IITG Student's Affairs section and using blockchain we can secure the entire process very efficiently.
 
 
 <h2>Idea</h2>
