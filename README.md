@@ -10,6 +10,7 @@
 <h2>Idea</h2>
  
 We are going to use azure blockchain technology to make the entire election process reliable , secure & transparent.Our basic motto is to safely store all the voter's final choices so that noone can tamper it using unfair means . For that we are using blockchain technology to add all the students (voters) as the nodes in the blockchain .We will also create a host website for IITG , acting as a server that keeps a count of all the votes. While the voting choices are getting stored in the host site , there is high chances of some hacking in the process , so what we are going to do is as soon as we detect some changes in the stored data in the server , we'll inform all the nodes of the blockchain that there is some malfunctioning in the election process.
+
 <h3>Implementation</h3>
 <h4>Pre-election</h4></br>
 Cryptography underlying blockchain technology helps us ensure that digital content comes from a trusted source.
@@ -28,7 +29,7 @@ Individual voters and election officials can each audit the eletion's outcome on
 need to make one by tonight... 
 
 <h2>Team - CodeVipers<h2>
-  <h3>Indian Institute of Technology Guwahati</h3>
+<h3>Indian Institute of Technology Guwahati</h3>
   1. Karan Gupta</br>
   2. Anjali Soni</br>
   3. AB Satyaprakash</br>
