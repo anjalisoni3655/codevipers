@@ -2,8 +2,8 @@
 
 <h2>Motivation</h2>
   
-  1. Usual problem with voting in the country, long time process, delays --- then in this paragraph describe those with our college, a whole day process, hassle in CCC, problems for students with motion impairment, etc.. 
-  2.Even this problem is very prominent in other colleges.. that are non IITs, because there elections take place over weeks, and manually.
+  1. Usual problem with voting in the country, long time process, delays --- then in this paragraph describe those with our college, a whole day process, hassle in CCC, problems for students with motion impairment, etc.. <br>
+  2.Even this problem is very prominent in other colleges.. that are non IITs, because there elections take place over weeks, and manually. <br>
   3.Every student has an android, so it's quite easy if we are able to make an android app for the same,and then integrate it with the IITG server, to secure voting with block chain.
   
 <h2>Idea</h2>
