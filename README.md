@@ -10,7 +10,7 @@ This motivates the use of a better and easily accessible method of voting. Almos
 
 <h2>Idea</h2>
  
-We are going to use azure blockchain technology to make the entire election process reliable, secure & transparent. Our basic motto is to safely store all the voters' final choices so that no one can tamper with it. For this purpose, we are using blockchain technology to add all the students (voters) as the nodes in the blockchain. We will also create a host website for IITG, that will keep a count of all the votes, while the Android App Provides the UI for voting. By using the concept of Smart Contract, the whole process can be guaranteed to stay secure.
+We are going to use 'Azure Blockchain' to make the entire election process reliable, secure & transparent. Our basic motto is to safely store all the voters' final choices so that no one can tamper with it. For this purpose, we are using blockchain technology to add all the students (voters) as the nodes in the blockchain. We will also create a host website for IITG, that will keep a count of all the votes, while the Android App Provides the UI for voting. By using the concept of Smart Contract, the whole process can be guaranteed to stay secure.
 
 <h2>Implementation</h2>
 
