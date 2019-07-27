@@ -10,7 +10,9 @@
 (describe the idea.... if you wanna add something else then do.. fundamentally we'll add the students aka the voters as nodes in the blockchain, as well as a server that keeps a vote count(maybe a host website for IITG). 
 
 <h2>How is it useful</h2>
-(describe the security involved, and the time limit reduction, ease of access from android phone itself, as well as the idea of using iitg email ID as the identification standard)
+#(describe the security involved, and the time limit reduction, ease of access from android phone itself, as well as the idea of using iitg email ID as the identification standard)
+Using Blockchain to save data of users keeps it safe and unaltered because the data is encrypted and has to be validated by a consensus protocol in order to be altered. Also, it is stored in decentralized manner which allows each user to have a copy of the alterations to the blockchain. This substantially minimizes the threat of the data being corrupted, while at the same time promotes transparency into the voting process.
+A tamper-proof online voting model , if implemented, would make the the whole voting process significantly faster as it would prevent long queues outside the polling booth as is what happens, for instance, in college committee elections. Every student and faculty of IIT Guwahati gets a webmail ID at the time of enrollment which would form the basis of unique identification for each voter. This would enable them to easily vote through our Android app without having to wait in queues or even go anywhere.
 
 <h2>Challenges</h2>
   Don't fill it now.. it'd be filled later when we face real challenges.. you may even remove or comment this point..
