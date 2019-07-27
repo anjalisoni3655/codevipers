@@ -1,16 +1,16 @@
 <h1> Microsoft Codefundo++ 2019 : Secure Electronic Voting System in IIT Guwahati using Blockchain </h1>
 
 <h2>Motivation</h2>
-Elections, referenda, and polls are very important processes & tools for the smooth operation of a modern democracy. But, usually these processes are infested with a lot of problems, be it the delays in conducting the elections or declaring the results due to its time-consuming nature.
+<p>Elections, referenda, and polls are very important processes & tools for the smooth operation of a modern democracy. But, usually these processes are infested with a lot of problems, be it the delays in conducting the elections or declaring the results due to its time-consuming nature.</p>
 
-Even in our college, IIT Guwahati, we have faced a similar scenario on the election’s day here, with long queues, involvement of so many officials, guards and supporting staffs. A whole day is wasted in the process. Moreover, many students, who are suffering from motion are unable to cast their votes. Same is the case with many other colleges all over the country.
-  
-So, this motivates the use of a better and easily accessible method of voting. Almost everyone has an android phone these days, and thus we decided to make an android application, for the students to register with their IITG email ID (to authenticate) and then vote throughout the election day, right from their hostels or any convenient place in the campus. This will be integrated with the IITG Student's Affairs section and using blockchain we can secure the entire process very efficiently.
+Even in our college, IIT Guwahati, we have faced a similar scenario on the election’s day here, with long queues, involvement of so many officials, guards and supporting staffs. A whole academic day is wasted in the process. Moreover, many students, who are suffering from motion impairments, are unable to cast their votes. Same is the case with many other colleges all over the country.
+
+This motivates the use of a better and easily accessible method of voting. Almost everyone has an Android based phone these days, and thus we decided to make an Android application, for the students to register with their IITG email ID (to authenticate) and then vote throughout the election day, right from their hostels or any convenient place in the campus. This will be integrated with the IITG Students' Affairs section and using blockchain we can secure the entire process very efficiently.
 
 
 <h2>Idea</h2>
  
-We are going to use azure blockchain technology to make the entire election process reliable , secure & transparent.Our basic motto is to safely store all the voter's final choices so that noone can tamper it using unfair means . For that we are using blockchain technology to add all the students (voters) as the nodes in the blockchain .We will also create a host website for IITG , acting as a server that keeps a count of all the votes. While the voting choices are getting stored in the host site , there is high chances of some hacking in the process , so what we are going to do is as soon as we detect some changes in the stored data in the server , we'll inform all the nodes of the blockchain that there is some malfunctioning in the election process.
+We are going to use azure blockchain technology to make the entire election process reliable, secure & transparent. Our basic motto is to safely store all the voters' final choices so that no one can tamper with it. For this purpose, we are using blockchain technology to add all the students (voters) as the nodes in the blockchain. We will also create a host website for IITG, that will keep a count of all the votes, while the Android App Provides the UI for voting. By using the concept of Smart Contract, the whole process can be guaranteed to stay secure.
 
 <h3>Implementation</h3>
 <h4>Pre-election</h4></br>
